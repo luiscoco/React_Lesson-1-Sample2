@@ -2,6 +2,12 @@
 
 Tiny repo for Lesson 1: describing the UI and creating your first React component.
 
+## Demo
+
+<img width="1412" height="838" alt="image" src="https://github.com/user-attachments/assets/e47f5dba-570a-4dd7-bbdc-c35f410f5964" />
+
+<img width="1256" height="449" alt="image" src="https://github.com/user-attachments/assets/83f041ca-269e-4adb-b92a-18cd38e68e3b" />
+
 ## Application features
 
 ### 1) Convert HTML to a reusable component

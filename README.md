@@ -1,6 +1,4 @@
-# React 19.2 - Lesson 1 Playground
-
-Tiny repo for Lesson 1: describing the UI and creating your first React component.
+# React 19.2 - Lesson 1: Describing the UI and Creating your First React Component.
 
 ## Demo
 
